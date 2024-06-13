@@ -1,4 +1,4 @@
-# Load necessary libraries
+# Load all necessary libraries
 
 library(tidyverse) # For data manipulation and visualization
 install.packages("plotly")
